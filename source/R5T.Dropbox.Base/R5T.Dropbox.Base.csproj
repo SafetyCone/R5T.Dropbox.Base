@@ -7,5 +7,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\R5T.NetStandard.IO.Paths.Base\source\R5T.NetStandard.IO.Paths.Base\R5T.NetStandard.IO.Paths.Base.csproj" />
     <ProjectReference Include="..\..\..\R5T.NetStandard.IO.Paths.Types\source\R5T.NetStandard.IO.Paths.Types\R5T.NetStandard.IO.Paths.Types.csproj" />
+    <ProjectReference Include="..\..\..\R5T.NetStandard.Organizational\source\R5T.NetStandard.Organizational\R5T.NetStandard.Organizational.csproj" />
   </ItemGroup>
 </Project>
